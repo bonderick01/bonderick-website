@@ -44,13 +44,14 @@ p {
 }
 
 /* List Styles */
-ul {
-    list-style-type: none;
-    padding-left: 0;
+ul, ol {
+    margin-bottom: 15px;
 }
 
 li {
-    margin-bottom: 10px;
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 5px;
 }
 
 /* Modal Styles */
@@ -87,4 +88,5 @@ li {
     text-decoration: none;
     cursor: pointer;
 }
+
 
