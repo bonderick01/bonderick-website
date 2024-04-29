@@ -1982,6 +1982,13 @@ input, select, textarea {
 			cursor: default;
 		}
 
+		.fa-golf-ball-tee {
+			color: #EA8A95;
+			display: block;
+			margin: 0 0 1.5em 0;
+			cursor: default;
+		}
+
 			.icon.featured:before {
 				font-size: 6em;
 			}
