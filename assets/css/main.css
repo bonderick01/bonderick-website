@@ -1977,7 +1977,7 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #43B3E0;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -1987,35 +1987,6 @@ input, select, textarea {
 			font-size: 6em;
 		}
 
-		.fa-golf-ball-tee:before {
-			-moz-osx-font-smoothing: grayscale;
-			-webkit-font-smoothing: antialiased;
-			display: inline-block;
-			font-style: normal;
-			font-variant: normal;
-			text-rendering: auto;
-			line-height: 1;
-			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
-			font-size: 1.25em; 
-		}
-		
-		.fa-golf-ball-tee.solid:before {
-			font-weight: 900;
-			font-size: 6em; 
-		}
-		
-		.fa-golf-ball-tee.featured {
-			color: #EA8A95;
-			display: block;
-			margin: 0 0 1.5em 0;
-			cursor: default;
-		}
-		
-		.fa-golf-ball-tee.featured:before {
-			font-size: 6em; 
-		}
 		
 
 
