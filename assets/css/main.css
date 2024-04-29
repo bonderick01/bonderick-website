@@ -1969,6 +1969,7 @@ input, select, textarea {
 
 		.icon.solid:before {
 			font-weight: 900;
+			font-size: 6em;
 		}
 
 		.icon.brands:before {
